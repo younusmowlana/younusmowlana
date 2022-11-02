@@ -1,6 +1,6 @@
 ### Hi, I'm Younus Mowlana 👋👨‍💻
 
-- 🔭 I’m currently working on MERN Project
+- 🔭 I’m currently working ona a spring project.
 - 🌱 I’m currently learning new techs
 - 👯 I’m looking to collaborate with other Programmers
 - 🥅 2022 Goals: Contribute more to open source projects
