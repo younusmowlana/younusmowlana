@@ -1,10 +1,10 @@
 ### Hi, I'm Younus Mowlana 👋👨‍💻
 
-- 🔭 I’m currently working ona a IOS Swift project.
-- 🌱 I’m currently learning new techs
-- 👯 I’m looking to collaborate with other Programmers
-- 🥅 2022 Goals: Contribute more to open source projects
-- ⚡ Fun fact: Football lover ⚽
+🔭 Current Focus: I'm actively engaged in a machine learning project that aims to leverage innovative techniques for impactful solutions.
+🌱 Continuous Learning: I’m committed to expanding my knowledge of emerging technologies to stay at the forefront of the field.
+👯 Collaboration: I'm eager to connect with fellow programmers and collaborate on exciting projects that push the boundaries of what's possible.
+🥅 2024 Goals: My aim for this year is to contribute more actively to open-source projects, helping to foster a vibrant developer community.
+⚡ Fun Fact: A passionate football lover who enjoys the thrill of the game! ⚽
 
 
 ### Connect with me:
